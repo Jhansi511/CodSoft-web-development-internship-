@@ -121,14 +121,14 @@ ul li a:hover{
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 30px;
-	margin-bottom: 24px;
+    margin-bottom: 24px;
 }
 .info span{
     color: rgb(230,104,59);
 }
 .image{
-	width: 30%;
-	height: 55%;
+    width: 30%;
+    height: 55%;
     position: absolute;
     right: 250px;
     bottom: 0;
@@ -136,13 +136,13 @@ ul li a:hover{
 }
 .image img{
 	position: absolute;
-    height: 80%;
+        height: 80%;
 	left: 75%;
-    transform: translate(-40%);
+        transform: translate(-40%);
 	bottom :60%
 }
 .information a{
-	margin-left: 7%;
+    margin-left: 7%;
     text-decoration: none;
     color: black;
     background: #589837;
